@@ -3,8 +3,6 @@ import pandas as pd
 import seaborn as sb
 import matplotlib.pyplot as plt
 
-# Title
-st.title("Mutual Fund Returns in India")
 
 # Load Dataset
 @st.cache_data
